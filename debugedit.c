@@ -43,7 +43,7 @@
 #include <popt.h>
 
 #include <gelf.h>
-#include <sys/elf_common.h>
+#include <elf.h>
 #include "dwarf.h"
 #include "hashtab.h"
 
